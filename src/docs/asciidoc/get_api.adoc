@@ -1,0 +1,7 @@
+==== request
+include::{snippets}/get api/http-request.adoc[]
+include::{snippets}/get api/query-parameters.adoc[]
+
+==== response
+include::{snippets}/get api/http-response.adoc[]
+include::{snippets}/get api/response-fields.adoc[]

@@ -1,0 +1,13 @@
+= API Docs
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toc-title: API
+:toclevels: 4
+:sectlinks:
+
+== /api/get
+include::get_api.adoc[]
+
+== /api/post
+include::post_api.adoc[]
